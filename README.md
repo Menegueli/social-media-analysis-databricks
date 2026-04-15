@@ -27,7 +27,7 @@ O pipeline foi automatizado para rodar semanalmente, garantindo que os dados sej
 
 ---
 
-## 🇺🇸 English (B1 Level)
+## 🇺🇸 English
 
 ### 🎯 Project Objective
 This project shows an end-to-end data pipeline using the **Medallion Architecture** on **Databricks**. The goal is to analyze how social media usage impacts students' mental health and academic performance worldwide.
